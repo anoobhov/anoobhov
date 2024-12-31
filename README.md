@@ -15,10 +15,10 @@ Welcome!I'm a passionate **MERN stack explorer**, a **DSA problem-solver** in C+
 
 ---
 
-## 🔧 Tech I'm Playing With:
+## 🔧 Tech I'm Mastering:
 - **Frontend:** HTML, CSS, JavaScript, React (working on making the web pun-tastic!)
 - **Backend:** Node.js, Express (handling requests like a pro 🚦)
-- **Database:** MongoDB (no "SQL-y" behavior here!)
+- **Database:** Mongo and MySQL: (A match made in database heaven)
 - **Languages:** C++, JavaScript (writing logic sharper than my sense of humor 🤓)
 
 ---
