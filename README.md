@@ -31,5 +31,5 @@ Welcome!I'm a passionate **MERN stack explorer**, a **DSA problem-solver** in C+
 
 ---
 
-> "Programming is like writing a book... except your readers are a compiler, an interpreter, and yelling, 'It's not working!'" 🤖
+> "Programming is like writing a book... except your readers are a compiler, an interpreter yelling, 'It's not working!'" 🤖
 
