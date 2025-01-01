@@ -7,7 +7,7 @@
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express
 - **Database:** Mongo and MySQL(A match made in database heaven)
-- **Problem-Solving:** C++(mastering DSA by sparring in CP battles)
+- **DSA:** C++(mastering DSA by sparring in CP battles)
 - **Maths**: Calculating probabilities that my code works without bugs: ~0%! 😅
 - **Debugger-in-Chief**: Debugging life, one line at a time. 🐛
 ---
