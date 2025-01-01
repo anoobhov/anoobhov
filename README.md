@@ -1,5 +1,5 @@
  👋 Greetings! 
- I'm a **MERN stack developer**,a **DSA & Maths problem-solver** who is sometimes lost in equations & occasionally in infinite loops!
+ I'm a **MERN** stack developer,a **DSA** & **Maths** problem-solver ,sometimes lost in equations & infinite loops!
 
 ---
 
@@ -14,8 +14,8 @@
 ### 🔧 Tech I'm Mastering:
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express
-- **Database:** Mongo and MySQL: (A match made in database heaven)
-- **Languages:** C++, JavaScript (writing logic sharper than my sense of humor)
+- **Database:** Mongo and MySQL(A match made in database heaven)
+- **Problem-Solving:** C++(mastering DSA by sparring in CP battles)
 
 ---
 
