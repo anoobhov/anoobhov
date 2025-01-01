@@ -4,10 +4,10 @@
 ---
 
 ### 🧑‍💻 Bits About Me 🔍:
-- 🚀 Currently diving into the **MERN stack** — making the web a better place, one React component at a time!
-- 🧮 **Maths**: Numbers are my therapy. Calculating probabilities that my code works without bugs: ~0%! 😅
-- 🏃 Walking (sometimes running) through random math problems — because it's "prime" time for learning!
-- 🧩 Practicing **Data Structures & Algorithms** in C++ — because "array" of hope is better than none. 😉
+- 🚀 Currently mastering **MERN stack** — crafting seamless web experiences, one clean React component at a time!
+- 🧮 **Maths**: Calculating probabilities that my code works without bugs: ~0%! 😅
+- 🏃Calculating my way through random math problems—because it's the root of all fun!
+- 🧩 Practicing **Data Structures & Algorithms** in C++ — because "array" of hope is better than none.
 - 🛠️ **Debugger-in-Chief**: Debugging life, one line at a time. 🐛
 ---
 
@@ -20,4 +20,4 @@
 ---
 
 #### 📫 Let’s Connect and Compile Ideas:
-- You're already here, so don't "fork" around! Check out my repos.Collaborations welcome — let's debug chaos together.
+You're already here, so don't "fork" around! Check out my repos.Collaborations welcome — let's debug chaos together.
