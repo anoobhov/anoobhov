@@ -1,5 +1,5 @@
  👋 Greetings! 
- I'm a **MERN** stack developer,a **DSA** & **Maths** problem-solver ,sometimes lost in equations & infinite loops!
+ I'm a **MERN** stack developer,a **DSA** & **Maths** problem-solver(lost in 🐛,infinite loops & equations!)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 
@@ -9,7 +9,7 @@
 - **Database:** Mongo and MySQL(A match made in database heaven)
 - **DSA:** C++(mastering DSA by sparring in CP battles)
 - **Maths**: Calculating probabilities that my code works without bugs: ~0%! 😅
-- **Debugger-in-Chief**: Debugging life, one line at a time. 🐛
+- **Debugger-in-Chief**: Debugging life, one line at a time.
 ---
 
 #### 📫 Let’s Connect and Compile Ideas:
