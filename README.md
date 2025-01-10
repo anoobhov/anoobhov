@@ -13,4 +13,5 @@
 
 #### 📫 Let’s Connect and Compile Ideas:
 You're already here, so don't "fork" around! Check out my repos.Collaborations welcome — let's debug chaos together.
-Telegram: https://t.me/anoobhov
+[Telegram](https://t.me/anoobhov)
+[Email](anoobhov@gmail.com)
