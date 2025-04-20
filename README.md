@@ -5,6 +5,6 @@
 ### 🔧 Tech I'm Mastering:
 - **Frontend:** HTML,CSS,JS,TS,React
 - **Backend:** Node.js, Express (currently)
-- **Database:** Mongo(next) & MySQL
+- **Database:** Mongo(currently) & MySQL
 - **DSA:** C++(mostly),C,Python
 - **Maths**: Calculating probabilities that my code works without bugs: ~0%! 😅
